@@ -94,8 +94,8 @@ float: left;
  
  /*Skills*/
  #skills h3 {
-   position: relative;
-   clear: both;
+   position: absolute;
+   margin-top: 400px;
 }
  #skillsicon {
   height: 150px;
