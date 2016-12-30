@@ -213,4 +213,5 @@ margin-right: 60px;
 #contact li {
  display: inline;
  padding: 10px;
+ list-style: none; 
 }
