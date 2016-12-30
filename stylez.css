@@ -93,10 +93,6 @@ float: left;
   }
  
  /*Skills*/
-#skills {
-  width: 940px;
-  height: 250px;
-}
  #skills h3 {
    position: relative;
    clear: both;
