@@ -95,7 +95,7 @@ float: left;
  /*Skills*/
  #skills h3 {
    position: relative;
-   float: left;
+   clear: left;
 }
  #skillsicon {
   height: 150px;
