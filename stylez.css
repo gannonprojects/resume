@@ -171,6 +171,8 @@ margin: -65px 35px 0 0;
 }
 
 #education h5 {
+ position: relative;
+ font-weight: normal; 
  font-size: 15px;
  font-style: italic;
  float: right;
@@ -178,6 +180,7 @@ margin: -65px 35px 0 0;
 }
 
 #education h6 {
+ position: relative;
  font-size: 15px;
  font-style: italic;
  float: right;
