@@ -92,11 +92,10 @@ float: left;
   margin: 85px 60px 60px 220px;
   }
  
- #skills, #experience, #education {
-
-}
- 
  /*Skills*/
+ #skills h3 {
+   float: left;
+}
  #skillsicon {
   height: 150px;
   width: 150px;
