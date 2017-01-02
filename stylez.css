@@ -193,11 +193,25 @@ margin: -65px 35px 0 0;
 }
 
 /*Education*/
+#educationiconcontainer {
+ display: inline-block;
+ float: left;
+ height: 320px;
+ width: 190px; 
+}
+
 #educationicon {
   width: 150px;
   height: 150px;
   float: left;
   margin: 20px 20px 30px 20px;
+}
+
+#educationtextcontainer {
+ display: inline-block;
+ float: right;
+ height: 320px;
+ width: 750px; 
 }
 
 #education h5 {
