@@ -234,12 +234,7 @@ font-size: 14px;
  width: 150px;
  height: 150px;
  float: left;
- margin: 20px 20px 60px 20px;
-}
-
-#researchtext {
-float: right;
-text-align: left;  
+ margin: 20px 20px 80px 20px;
 }
 
 #research p {
