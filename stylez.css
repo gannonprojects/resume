@@ -212,6 +212,7 @@ margin: -65px 35px 0 0;
  float: right;
  height: 320px;
  width: 750px; 
+ padding-bottom: 30px; 
 }
 
 #education h5 {
