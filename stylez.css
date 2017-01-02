@@ -75,6 +75,8 @@ padding-top: 17px;
 position: relative; 
 background: url(https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAdIAAAAJDJkMjQ3Y2MxLTliZDUtNDRkOC04ZWY0LTllMmE5NjI5MjQ5OA.jpg);
 background-size: 150px;
+background-repeat: no-repeat;
+background-position: center;  
 height: 150px;
 width: 150px;
 border-radius: 50%;
