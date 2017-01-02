@@ -219,16 +219,16 @@ margin: -65px 35px 0 0;
 position: relative;
 float: right; 
 text-align: right;
-margin: -50px 10px 0 0; 
+margin: -60px 20px 0 0; 
 }
 
-#education h5 {
+#locdate h5 {
  position: relative;
  font-weight: normal; 
  font-size: 15px;
  font-style: italic;
  float: right;
- margin: -30px 35px 0px 0px;
+ /*margin: -30px 35px 0px 0px;*/
 }
 
 #education h6 {
