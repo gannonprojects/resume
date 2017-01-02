@@ -222,13 +222,18 @@ text-align: right;
 margin: -70px 30px 0 0; 
 }
 
+#locdate p {
+font-style: italic; 
+}
+
+/*
 #locdate h5 {
  position: relative;
  font-weight: normal; 
  font-size: 15px;
  font-style: italic;
  float: right;
- /*margin: -30px 35px 0px 0px;*/
+ margin: -30px 35px 0px 0px;
 }
 
 #locdate h6 {
@@ -237,8 +242,9 @@ margin: -70px 30px 0 0;
  font-style: italic;
  float: right;
  font-weight: normal;
- /*margin: -10px 35px 0px 0px;*/
+ margin: -10px 35px 0px 0px;
 }
+*/
 
 /*Research*/
 #researchicon {
