@@ -217,7 +217,8 @@ margin: -65px 35px 0 0;
 
 #locdate {
 position: relative;
-float: right;  
+float: right; 
+text-align: right;
 }
 
 #education h5 {
