@@ -90,10 +90,11 @@ height: 200px;
 width: 750px;  
 }
 
-#about p {
+#aboutpcontainer p {
   position: relative;
   vertical-align: middle; 
   padding: 20px 30px 15px 20px;
+  margin-top: 50px;
   }
  
  /*Skills*/
