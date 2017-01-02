@@ -113,7 +113,7 @@ width: 750px;
   height: 150px;
   width: 150px;
   position: relative;
-  margin: 35px 40px 0px 10px;
+  margin: 35px 40px 10px 10px;
  }
  
  #skillslistcontainer {
@@ -126,6 +126,7 @@ width: 750px;
  #skillslist {
   position: relative;
   text-align: left; 
+  vertical-align: middle; 
   margin: 35px 10px 0px 10px; 
  }
  
