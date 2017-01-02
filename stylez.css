@@ -40,18 +40,6 @@ text-transform: uppercase;
 font-weight: normal;
 }
  
- /*Job company*/
-h4 {
-  font-weight: normal;
-  text-transform: uppercase;
-  font-weight: bold;
-}
- 
- /*Job title*/
-h5 {
-  font-weight: normal;
-}
- 
  /*Cover*/
 #background {
 background: url(https://www.swanstone.com/images/new_products/product_subway_tile_detail.jpg);
@@ -76,20 +64,33 @@ padding-top: 17px;
 }
  
  /*About me*/
+#mypiccontainer {
+ display: inline-block;
+ float: left;
+ height: 200px;
+ width: 190px; 
+}
+
 #mypic {
- display: inline-block; 
- background: url(https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAdIAAAAJDJkMjQ3Y2MxLTliZDUtNDRkOC04ZWY0LTllMmE5NjI5MjQ5OA.jpg);
+position: relative; 
+background: url(https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAdIAAAAJDJkMjQ3Y2MxLTliZDUtNDRkOC04ZWY0LTllMmE5NjI5MjQ5OA.jpg);
 background-size: 150px;
 height: 150px;
 width: 150px;
 border-radius: 50%;
-margin: 20px 10px 15px 30px;
-float: left;
+padding: 20px 10px 15px 30px;
+}
+
+#aboutpcontainer {
+display: inline-block;
+float: right;
+height: 200px;
+width: 750px;  
 }
 
 #about p {
   position: relative;
-  margin: 85px 60px 60px 220px;
+  padding: 20px 30px 15px 10px;
   }
  
  /*Skills*/
@@ -143,6 +144,18 @@ font-size: 14px;
 font-style: italic;
 }
 
+ /*Job company*/
+h4 {
+  font-weight: normal;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+ 
+ /*Job title*/
+h5 {
+  font-weight: normal;
+}
+ 
 .job h5 {
 font-size: 15px;
 text-decoration: underline;
