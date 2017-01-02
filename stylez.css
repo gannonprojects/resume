@@ -17,7 +17,7 @@ padding-bottom: 20px;
  
  /*Navigation Bar*/
 #navigation {
-margin-left: 120px; 
+margin: auto; 
 }
 
 #navigation a {
