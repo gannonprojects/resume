@@ -113,6 +113,7 @@ width: 750px;
  #skillslist {
   width: 750px;
   position: relative;
+  text-align: left; 
   margin: 35px 10px 0px 10px; 
  }
  
