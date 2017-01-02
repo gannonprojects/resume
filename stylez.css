@@ -237,6 +237,11 @@ font-size: 14px;
  margin: 20px 20px 60px 20px;
 }
 
+#researchtext {
+float: right;
+text-align: left;  
+}
+
 #research p {
 margin-right: 60px;
 }
