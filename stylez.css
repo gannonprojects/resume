@@ -196,7 +196,7 @@ margin: -65px 35px 0 0;
 #educationiconcontainer {
  display: inline-block;
  float: left;
- height: 350px;
+ height: 320px;
  width: 190px; 
 }
 
@@ -210,7 +210,7 @@ margin: -65px 35px 0 0;
 #educationtextcontainer {
  display: inline-block;
  float: right;
- height: 350px;
+ height: 320px;
  width: 750px; 
  padding-bottom: 30px; 
 }
@@ -219,8 +219,7 @@ margin: -65px 35px 0 0;
 position: relative;
 float: right; 
 text-align: right;
-margin-top: -20px;
-font-style: italic;  
+margin-top: -30px; 
 }
 
 #education h5 {
