@@ -113,10 +113,7 @@ width: 750px;
  #skillslist {
   width: 750px;
   position: relative;
-  float: right;
   margin: 35px 10px 0px 10px; 
-  text-align: left;
-  display: inline-block; 
  }
  
  /*Experience*/
