@@ -27,7 +27,7 @@ text-align: center;
   text-transform: uppercase;
   color: black;
   text-align: center;
-  padding-right: 40px;
+  padding: 0 15px;
   }
  
 #navigation a:hover {
