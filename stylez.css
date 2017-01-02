@@ -219,6 +219,8 @@ margin: -65px 35px 0 0;
 position: relative;
 float: right; 
 text-align: right;
+margin-top: -20px;
+font-style: italic;  
 }
 
 #education h5 {
