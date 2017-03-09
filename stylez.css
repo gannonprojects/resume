@@ -258,13 +258,12 @@ margin-right: 60px;
 }
 
 #contactline li {
- 
  padding: 10px;
  list-style: none; 
 }
 
-#contactline li li {
+#email {
  position: relative;
-  vertical-align: top;
-  margin-top:-30px;
+ vertical-align: top;
+ margin-top:-30px;
 }
