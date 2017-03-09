@@ -1,8 +1,7 @@
 ﻿
   body {
   padding-top: 80px;
-  font-family: Arial, sans-serif;
-    text-align: center;
+  font-family: Arial, sans-serif;  
 }
  
  /*Structure*/
@@ -265,5 +264,6 @@ margin-right: 60px;
 }
 
 #email {
+ position: relative; 
  margin-top: -20px; 
 }
