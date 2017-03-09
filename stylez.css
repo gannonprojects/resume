@@ -262,3 +262,7 @@ margin-right: 60px;
  padding: 10px;
  list-style: none; 
 }
+
+#contactline li a {
+ margin-top: -10px; 
+}
