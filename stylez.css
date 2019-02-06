@@ -1,4 +1,4 @@
-﻿
+
   body {
   padding-top: 80px;
   font-family: Arial, sans-serif;  
@@ -99,6 +99,8 @@ width: 750px;
   vertical-align: middle; 
   padding: 20px 30px 15px 20px;
   margin-top: 50px;
+  font-family: Arial;
+  font-size: 15;
   }
  
  /*Skills*/
@@ -132,6 +134,7 @@ width: 750px;
   text-align: left; 
   vertical-align: middle; 
   margin: 50px 10px 10px 10px; 
+  font-size: 15;
  }
  
  /*Experience*/
@@ -151,6 +154,7 @@ width: 750px;
  width: 750px; 
  display: inline-block;
  margin-left: 0px;
+ font-size: 15;
 }
 
 .job {
@@ -161,7 +165,7 @@ width: 750px;
 position: relative;
 float: right;
 margin: -45px 35px 0 0;
-font-size: 14px;
+font-size: 15px;
 font-style: italic;
 }
 
@@ -185,7 +189,7 @@ margin-top: -5px;
 
 .job h6 {
 font-weight: normal;
-font-size: 14px;
+font-size: 15px;
 font-style: italic;
 position: relative;
 float: right;
@@ -194,6 +198,7 @@ margin: -65px 35px 0 0;
 
 .job li {
  margin-right: 60px; 
+ font-size: 15;
 }
 
 /*Education*/
@@ -240,7 +245,8 @@ font-size: 14px;
 }
 
 #researchtext {
-margin-bottom: 45px;  
+margin-bottom: 45px; 
+font-size: 15;
 }
 
 #research p {
@@ -267,3 +273,4 @@ margin-right: 60px;
  vertical-align: top;
  margin-top:-30px;
 }
+
